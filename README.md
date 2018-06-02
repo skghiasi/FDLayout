@@ -12,7 +12,16 @@ Check "Use the desktop language bar when available"
 4) Change the layout from the language bar
 
 5) 
-/ + e = é               \ + a = à               / + c = ç                 ^ + i = î   
-\ + e = è               ^ + a = â               ¨ + o = ö 
-^ + e = ê               ¨ + a = ä               ^ + o = ô 
-¨ + e = ë               ¨ + u = ü               ¨ + i = ï 
+ / + e = é                                                
+ \ + e = è                               
+ ^ + e = ê                             
+ ¨ + e = ë                              
+ \ + a = à 
+ ^ + a = â
+ ¨ + a = ä
+ ¨ + u = ü
+ / + c = ç
+ ¨ + o = ö
+ ^ + o = ô 
+ ¨ + i = ï 
+ ^ + i = î
